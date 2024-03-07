@@ -3,7 +3,7 @@
 ## Overview
 The *Cryptocurrency Website* is a sleek and responsive website that provides real-time prices for popular cryptocurrencies such as Bitcoin, Ethereum, and Dogecoin. It features a clean design, market information, and a user-friendly interface.
 
-![Cryptocurrency Website](./images/screenshot.png)
+![Cryptocurrency Website](./images/readme.png)
 
 ## Technologies Used 🚀
 - **HTML**
@@ -24,7 +24,7 @@ The *Cryptocurrency Website* is a sleek and responsive website that provides rea
 3. Click on the "Explore More" button for additional information.
 
 ## Live Demo 🌐
-Check out the live demo: [Cryptocurrency Website Demo](#) <!-- Add your live demo link -->
+Check out the live demo: [Cryptocurrency Website Demo](https://cryptocurrency-website-one.vercel.app)
 
 ## Installation 🛠️
 1. Clone the repository: `git clone https://github.com/your-username/cryptocurrency-website.git`
